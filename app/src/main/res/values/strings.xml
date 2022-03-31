@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestStav</string>
+    <string name="characters">Characters</string>
+    <string name="watch_episodes">Watch episodes</string>
+</resources>
